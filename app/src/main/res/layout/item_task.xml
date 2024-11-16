@@ -1,0 +1,17 @@
+<!-- item_task.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <CheckBox
+        android:id="@+id/taskCheckBox"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/edittextbox"
+        android:paddingLeft="10dp"
+        android:text="Task description here"
+        android:textColor="@color/black" />
+</LinearLayout>
