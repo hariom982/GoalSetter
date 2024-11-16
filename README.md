@@ -4,3 +4,6 @@ Added all the required features in this version of APK.
 -daily reminders via notification of pending tasks which is close due date.
 Challenges faced - haven't faced the major challenges the only challenge I faced while adding alarm manager in the application
 but somehow resolve it by reading documentaions and using chatgpt a little bit.
+
+APK is uploaded in below drive link.
+https://drive.google.com/drive/folders/1VX_100-OPVqBxpnY1XwswRV6biOBYKSG?usp=drive_link
