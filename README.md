@@ -1,4 +1,4 @@
-Added all the required features int this version of APK.
+Added all the required features in this version of APK.
 -Goal creation- user can easily create its goal with goal title,a short description,due date and required tasks.
 -progress tracking- on the basis of completion of tasks the progress will be recorded and will be shown in corresponding task.
 -daily reminders via notification of pending tasks which is close due date.
